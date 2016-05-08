@@ -1,0 +1,28 @@
+name: JeffMac
+favicon: null
+layout_spectrum: 0.34167096856981516
+typography_spectrum: 0.25882378523238003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6110331974923611
+  lightness: 0.8149822494015098
+  saturation: 0.11188021884299815
+  rhythmicContrast: 0.37448969343677163
+purpose: []
