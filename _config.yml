@@ -1,7 +1,7 @@
 name: JeffMac
 favicon: null
-layout_spectrum: 0.34167096856981516
-typography_spectrum: 0.25882378523238003
+layout_spectrum: 1
+typography_spectrum: 0.07724
 cta:
   domain: null
   bucket: null
